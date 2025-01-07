@@ -3,7 +3,7 @@
 <img style="border-radius:50%" height="150px" src="./public/assets/favicon.png">
 </kbd>
 <h1 align="center">Lunarsync</h1>
-<p align="center">The best place to evade internet censorship with <b>200+</b> games and a ultrafast proxy. </p>
+<p align="center">The best place to browse the web without worrying about viruses.</p>
 
 ## Running Locally
 
